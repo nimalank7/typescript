@@ -1,5 +1,5 @@
-import array from "lodash"
+import array1 from "lodash";
 
 
-let allCapsName: string = array.upperCase("Hello");
+let allCapsName: string = array1.upperCase();
 console.log(allCapsName);
