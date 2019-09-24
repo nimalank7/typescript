@@ -1,1 +1,1 @@
-console.log("It works!");
+var x = 'I will forever be a string';
